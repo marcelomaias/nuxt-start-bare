@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-one",
+  "name": "nuxt-start-bare",
   "version": "1.0.0",
-  "description": "My extraordinary Nuxt.js project",
+  "description": "Nuxt.js start project",
   "author": "Marcelo Maia",
   "private": true,
   "scripts": {
